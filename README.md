@@ -1,1 +1,1 @@
-# http-metods
+# http-methods
